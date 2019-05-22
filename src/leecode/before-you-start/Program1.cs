@@ -13,6 +13,9 @@
 
 输入: [4,1,2,1,2]
 输出: 4
+
+引申：
+如果每个元素均出现两次呢？
 */
 using System;
 using System.Collections;
